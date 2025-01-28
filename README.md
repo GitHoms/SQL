@@ -6,9 +6,9 @@
 `Найдите все комедии продолжительностью более трёх часов.
 Напишите SQL запрос возвращающий результат состоящий из трёх столбцов: названия фильма, года выхода на экран и продолжительности в минутах отсортированный по длине фильма.`
 
-(https://github.com/GitHoms/SQL/blob/main/Assets/21.jpg?raw=true)
+![Header](https://github.com/GitHoms/SQL/blob/main/Assets/21.jpg?raw=true)
 
 `Найдите все фильмы взятые в прокат KATIE ELLIOTT. Выведите результат в два столбца title и rating.
 Отсортируйте список так что бы сначала шли фильмы "для взрослых" (с рейтингом R), а затем все остальные по алфавиту.`
 
-(https://github.com/GitHoms/SQL/blob/main/Assets/42.jpg?raw=true)
+![Header](https://github.com/GitHoms/SQL/blob/main/Assets/42.jpg?raw=true)
